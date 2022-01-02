@@ -1,2 +1,3 @@
 # rsschool-cv
-# My first CV
+# My first CV 
+# Slava super programmer
