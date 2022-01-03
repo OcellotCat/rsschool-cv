@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1lEgeGvG2KiWeFpRKpqYTcwPDqxPnogit/view?usp=sharing)
+![](WKD.jpg)
 1. Vyacheslav Gromadchenko
 2. E-mail: vasykiselliu@gmail.com Discord: August(OcellotCat).
 3. I want to become a Front-End developer. The most important thing for me is the opportunity to develop to reach a new level. I would like to interact
