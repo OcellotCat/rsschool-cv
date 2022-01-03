@@ -1,0 +1,23 @@
+.profile-photo {
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+.name{
+    overflow: hidden;
+    text-align: center;
+}
+.information{
+    overflow: hidden;
+}
+.end{
+    text-align: center;
+}
+.main-color{
+    background-color: ghostwhite;
+    overflow: hidden;
+    border: solid 2px;
+}
+.inside{
+    margin: 15px;
+}
