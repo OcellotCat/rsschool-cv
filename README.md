@@ -1,2 +1,2 @@
 # My first CV
-# https://github.com/OcellotCat/rsschool-cv/blob/gh-pages/cv.md
+# https://ocellotcat.github.io/rsschool-cv/
